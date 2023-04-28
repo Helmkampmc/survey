@@ -1,0 +1,15 @@
+<html>
+  <head>
+      <title>Helmkamp Survey</title>
+      <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>How did Helmkamp do as acting manager?</h1>
+    <p class="great">
+      <button>Great</button>
+    </p>
+    <p class="bad">
+      <button>Bad</button>
+    </p>
+  </body>
+</html>
